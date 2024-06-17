@@ -1,0 +1,83 @@
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.csproj.AssemblyReference.cache
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.Properties.Resources.resources
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.csproj.GenerateResource.cache
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.csproj.CoreCompileInputs.cache
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\Proby.exe.config
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\Proby.exe
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\Proby.pdb
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.exe
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.pdb
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\MySql.Data.dll
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\System.Memory.dll
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\System.Buffers.dll
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\bin\Debug\MySql.Data.xml
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.csproj.CopyComplete
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.register.resources
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.Login.resources
+C:\Users\motei\OneDrive\Pulpit\visual 2022\Proby\obj\Debug\Proby.MainPage.resources
+C:\Users\User\Desktop\Proby\bin\Debug\Proby.exe.config
+C:\Users\User\Desktop\Proby\bin\Debug\Proby.exe
+C:\Users\User\Desktop\Proby\bin\Debug\Proby.pdb
+C:\Users\User\Desktop\Proby\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Proby\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Proby\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Proby\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Proby\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.Login.resources
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.MainPage.resources
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.Properties.Resources.resources
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.register.resources
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.exe
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.pdb
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.BookDetailForm.resources
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.AboutBox1.resources
+C:\Users\User\Desktop\Proby\obj\Debug\Proby.text.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\Proby.exe.config
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\Proby.exe
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\Proby.pdb
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\MySql.Data.dll
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\System.Memory.dll
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\System.Buffers.dll
+C:\Users\motei\OneDrive\Pulpit\Proby2333\bin\Debug\MySql.Data.xml
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.csproj.AssemblyReference.cache
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.AboutBox1.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.BookDetailForm.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.text.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.Login.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.MainPage.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.Properties.Resources.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.register.resources
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.csproj.GenerateResource.cache
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.csproj.CoreCompileInputs.cache
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.csproj.CopyComplete
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.exe
+C:\Users\motei\OneDrive\Pulpit\Proby2333\obj\Debug\Proby.pdb
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\Proby.exe.config
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\Proby.exe
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\Proby.pdb
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\MySql.Data.dll
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\System.Memory.dll
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\System.Buffers.dll
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\bin\Debug\MySql.Data.xml
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.csproj.AssemblyReference.cache
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.AboutBox1.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.BookDetailForm.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.text.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.Login.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.MainPage.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.Properties.Resources.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.register.resources
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.csproj.GenerateResource.cache
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.csproj.CoreCompileInputs.cache
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.csproj.CopyComplete
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.exe
+C:\Users\motei\OneDrive\Pulpit\Projekt ST1\obj\Debug\Proby.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proby.BookDetailForm">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAKhAAAKEAAAmCEACACAQSQQIAEBAAEAAQAIDAAoA=</HashCode>
+      <FileName>BookDetailForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proby.text">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIhAAACAAAAAAAECACARSICIAEBAAMABQAIBAAAA=</HashCode>
+      <FileName>BookDetailForm2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proby.data">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proby.Login">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAQAgCAAEBAAAICAAAASAAAAQAAAAIAAAQBABAA=</HashCode>
+      <FileName>login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proby.MainPage">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAIAEAASsAEAEAAICACAZSIAAAAAAAMMBQAaBABAA=</HashCode>
+      <FileName>MainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proby.Program">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proby.register">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAABQAACAAMBAAAICAABACAACAAAgAgIAAAwBAhIA=</HashCode>
+      <FileName>register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
